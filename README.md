@@ -57,7 +57,7 @@ I used `ping` to test both IP connectivity and DNS resolution:
 ping -c 4 8.8.8.8
 ping -c 4 google.com
 ```
-![ping to 8.8.8.8 ](screenshots/ping_to_gg.png)
+![ping to 8.8.8.8 ](screenshots/ping_to_4.png)
 ![ping to Google](screenshots/ping_to_google.png)
 
 Testing an IP address and a hostname separately helped me distinguish basic network connectivity problems from possible DNS resolution problems.

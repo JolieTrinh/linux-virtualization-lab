@@ -50,7 +50,7 @@ A curated list of core Linux CLI utilities used for system inspection, network d
 
 ---
 
-## 🛠 Service Management
+## Service Management
 
 * `systemctl status ssh`
   > Checks the operational state (active/running, inactive, or disabled) of the OpenSSH daemon.
